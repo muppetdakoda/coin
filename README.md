@@ -2,5 +2,5 @@
 
 just a bunch of coins
 
-![Imgur](https://i.imgur.com/24solwy.png)
+[<img src ="https://i.imgur.com/24solwy.png">](https://dakodadev.itch.io/coin)
 
